@@ -89,7 +89,7 @@ flexible messaging model and an intuitive client API.</description>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <redirectTestOutputToFile>true</redirectTestOutputToFile>
-    <test.additional.args></test.additional.args>
+    <test.additional.args/>
     <testReuseFork>true</testReuseFork>
     <testForkCount>4</testForkCount>
     <testRealAWS>false</testRealAWS>
@@ -190,7 +190,7 @@ flexible messaging model and an intuitive client API.</description>
     <jakarta.xml.bind.version>2.3.3</jakarta.xml.bind.version>
     <jakarta.validation.version>2.0.2</jakarta.validation.version>
     <jna.version>4.2.0</jna.version>
-    <kubernetesclient.version>12.0.1</kubernetesclient.version>
+    <kubernetesclient.version>16.0.0</kubernetesclient.version>
     <okhttp3.version>3.14.9</okhttp3.version>
     <!-- use okio version that matches the okhttp3 version -->
     <okio.version>1.17.2</okio.version>
